@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2c178521.css",
+    "main.js": "/portfolio/static/js/main.37bb40bf.js",
+    "static/js/787.30237536.chunk.js": "/portfolio/static/js/787.30237536.chunk.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.9795534111b84d7fef99.jpg",
+    "static/media/movie-app.png": "/portfolio/static/media/movie-app.21f78a3974040d7e39db.png",
+    "static/media/react.png": "/portfolio/static/media/react.81ed438b18e24116794d.png",
+    "static/media/kakao-clone.png": "/portfolio/static/media/kakao-clone.33f25bf9c1254f65366d.png",
+    "static/media/scroll.gif": "/portfolio/static/media/scroll.1255ecb5c098f8eb1d33.gif",
+    "static/media/coin-app.png": "/portfolio/static/media/coin-app.2894bd9d635b95f1e3f5.png",
+    "static/media/count.png": "/portfolio/static/media/count.10c500a31965b83f584f.png",
+    "static/media/random-app.png": "/portfolio/static/media/random-app.90e83bb8874f2d4ad0f7.png",
+    "static/media/html.png": "/portfolio/static/media/html.aab59987a376edab2034.png",
+    "static/media/oracle.png": "/portfolio/static/media/oracle.9156326c725803e9b7ba.png",
+    "static/media/mojadol.png": "/portfolio/static/media/mojadol.5e62f500898c8120d6d1.png",
+    "index.html": "/portfolio/index.html",
+    "main.2c178521.css.map": "/portfolio/static/css/main.2c178521.css.map",
+    "main.37bb40bf.js.map": "/portfolio/static/js/main.37bb40bf.js.map",
+    "787.30237536.chunk.js.map": "/portfolio/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c178521.css",
+    "static/js/main.37bb40bf.js"
+  ]
+}
