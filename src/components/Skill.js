@@ -4,7 +4,8 @@ import Zoom from 'react-reveal/Zoom';
 import jsp from '../img/jsp.png';
 import oracle from '../img/oracle.png';
 import react from '../img/react.png';
-import html from '../img/html.png';
+import spring from '../img/spring.png';
+import mysql from '../img/mysql.png';
 
 
 class Skill extends Component {
@@ -20,9 +21,10 @@ class Skill extends Component {
               <div className='CanDo'>
                 <h2 className='IcanDo'>I Can Do</h2>
                 <div className='developer'>
-                  <img src={html} alt="html" className='html-img'></img>
+                  <img src={spring} alt="spring" className='spring-img'></img>
                   <img src={react} alt="react" className='react-img'></img>
                   <img src={jsp} alt="jsp" className='jsp-img'></img>
+                  <img src={mysql} alt="mysql" className='mysql-img'></img>
                   <img src={oracle} alt="oracle" className='oracle-img'></img>
                 </div>
               </div>

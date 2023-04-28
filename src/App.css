@@ -120,8 +120,13 @@
   margin-top: 20px;
 }
 
-.html-img {
-  width: 500px;
+.spring-img {
+  width: 200px;
+  margin-right: 10px;
+}
+
+.mysql-img {
+  width: 200px;
   margin-right: 10px;
 }
 

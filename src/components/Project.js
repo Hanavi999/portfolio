@@ -1,9 +1,9 @@
 import React, { Component, useState} from "react";
 import Fade from 'react-reveal/Fade';
 import Zoom from 'react-reveal/Zoom';
-import count from '../img/count.png';
-import kakao from '../img/kakao-clone.png';
-import coin from '../img/coin-app.png';
+import board from '../img/board.png';
+import chat from '../img/chating.png';
+import mattermost from '../img/mattermost.png';
 import random from '../img/random-app.png';
 import mojadol from '../img/mojadol.png';
 import movie from '../img/movie-app.png';
@@ -14,12 +14,12 @@ import SwiperCore, { Autoplay } from 'swiper';
 class Project extends Component {
   render() {
     const skill = [
-      {id: 1, img: count, name: '카운트다운 웹페이지', useSkill: 'html, css, javascript', site: 'https://github.com/Hanavi999/CountDown'},
-      {id: 2, img: kakao, name: '카카오톡 클론코딩', useSkill: 'html, css', site: 'https://github.com/Hanavi999/kokoa-clone-2022'},
-      {id: 3, img: coin, name: '암호화폐 정보 웹페이지', useSkill: 'react, css, api', site: 'https://github.com/Hanavi999/Coin-tracker'},
+      {id: 1, img: board, name: '회원제 게시판', useSkill: 'html, css, mysql, spring boot', site: 'https://github.com/Hanavi999/SpringBootMemberBoard'},
+      {id: 2, img: chat, name: '실시간 채팅', useSkill: 'vue, css, mysql, spring boot', site: 'https://github.com/Hanavi999/Spring_Boot_Chating_Web'},
+      {id: 3, img: mattermost, name: 'mattermost bot', useSkill: 'spring boot', site: 'https://github.com/Hanavi999/KISA_Security_Bot'},
       {id: 4, img: random, name: '랜덤뽑기 웹페이지', useSkill: 'react, css', site: 'https://github.com/Hanavi999/random-machine'},
       {id: 5, img: mojadol, name: 'mojadol 팀프로젝트', useSkill: 'html, css, javascript, Laravel, php', site: 'https://github.com/GBSWmojaDol'},
-      {id: 6, img: movie, name: '영화소개 웹페이지', useSkill: 'react, css, api', site: 'https://github.com/Hanavi999/movie-app'},
+      {id: 6, img: movie, name: '영화소개 웹페이지', useSkill: 'react, css', site: 'https://github.com/Hanavi999/movie-app'},
     ];
     SwiperCore.use([Autoplay]);
 
